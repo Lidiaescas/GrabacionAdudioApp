@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GrabacionAdudioApp</string>
+    <string name="btReproducir">REPRODUCIR</string>
+    <string name="btAvanzar">AVANZAR</string>
+    <string name="btRetroceder">RETROCEDER</string>
+    <string name="btGrabar">GRABAR</string>
+    <string name="btPausa">PAUSA</string>
+    <string name="btPausar">PAUSAR</string>
+    <string name="btDetener">DETENER</string>
+</resources>
